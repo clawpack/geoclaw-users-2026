@@ -3,8 +3,6 @@ project:
   title: GeoClaw Users' Workshop 2026
   copyright: '2026'
   github: clawpack/geoclaw-users-2026
-  bibliography:
-    - docs/references.bib
   exports:
     - format: pdf
       template: plain_latex_book
