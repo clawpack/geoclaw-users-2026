@@ -9,9 +9,6 @@ project:
       output: exports/geoclaw_users.pdf
   toc:
     - file: index.md
-    - title: Schedule
-      children:
-        - file: schedule.md
 site:
   options:
     logo: images/GeoClawLogoTitleFrame.jpg

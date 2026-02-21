@@ -46,8 +46,7 @@ The workshop will run from 8:30 am to 12:30 pm PDT (UTC-7) both days.
 There may be additional break-out groups or one-on-one discussions, or
 mini hacking sessions in the afternoons for those interested.
 
-See [](schedule) for more details and a preliminary list of speakers.
-
+A more detailed schedule will appear soon.
 
 
 ## Some GeoClaw resources:
