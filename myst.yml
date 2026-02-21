@@ -1,0 +1,22 @@
+version: 1
+project:
+  title: GeoClaw Users' Workshop 2026
+  copyright: '2026'
+  github: clawpack/geoclaw-users-2026
+  bibliography:
+    - docs/references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/geoclaw_users.pdf
+  toc:
+    - file: index.md
+    - title: Schedule
+      children:
+        - file: schedule.md
+site:
+  options:
+    logo: images/GeoClawLogoTitleFrame.jpg
+    favicon: images/geoclaw-favicon-32x32.png
+    folders: true
+  template: book-theme
