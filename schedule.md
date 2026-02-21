@@ -55,8 +55,7 @@ All times are Pacific Daylight Time (UTC-7)
 - Takuya Miyashita, GeoClaw Extensions for Meteotsunami Simulation and Application Examples
 - Carlos Munoz Moncayo, Explicit discretization of hyperbolic-dispersive water wave models in GeoClaw
 - Jay Patton, Sea level rise influences to probabilistic tsunami hazards and risks
-- Donsub Rim, Using GeoClaw simulations for training machine learning
-- models
+- Donsub Rim, Using GeoClaw simulations for training machine learning models
 - Angel Ruiz-Angulo, Modeling dispersion in the Kamchatka 2025 tsunami
 - Ignacio Sepulveda, Modeling tidal currents
 - Jackie Sustiel, Modeling chemical tank leaks
