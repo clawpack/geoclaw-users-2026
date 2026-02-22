@@ -42,12 +42,11 @@ Participants agree to abide by the
 
 ## Workshop Schedule
 
-The workshop will run from 8:30 am to 12:30 pm PDT (UTC-7) both days.
+The workshop will run from 8:30 am to roughly 12:45 pm PDT (UTC-7) both days.
 There may be additional break-out groups or one-on-one discussions, or
 mini hacking sessions in the afternoons for those interested.
 
-A more detailed schedule will appear soon.
-
+See [](schedule) for the tentative schedule and list of speakers.
 
 ## Some GeoClaw resources:
 

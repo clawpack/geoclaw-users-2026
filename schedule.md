@@ -11,38 +11,40 @@ All times are Pacific Daylight Time (UTC-7)
 :::{table}
 |Time|Speaker|Title|
 |:---|:---|:--|
-|08:30 - 08:45|Organizers|Welcome and Overview|
-|08:45 - 09:00|  |  |
+|08:30 - 08:40|Organizers|Welcome and Overview|
+|08:40 - 08:55|  |  |
 |09:00 - 09:15|  |  |
-|09:15 - 09:45| Discussion / Break-outs |  |
+|09:20 - 09:45| Discussion | Break-out rooms by speaker and/or topic |
 |09:45 - 10:00|  |  |
-|10:15 - 10:30|  |  |
-|10:30 - 10:45|  |  |
-|10:45 - 11:15| Discussion / Break-outs |  |
-|11:15 - 11:30|  |  |
+|10:05 - 10:20|  |  |
+|10:25 - 10:50|  |  |
+|10:55 - 11:30| Discussion | Break-out rooms by speaker and/or topic |
 |11:30 - 11:45|  |  |
-|11:45 - 12:00|  |  |
-|12:00 - 12:30| Discussion / Break-outs |  |
+|11:50 - 12:05|  |  |
+|12:10 - 12:45| Discussion | Break-out rooms by speaker and/or topic |
+|12:45 -      | TBD | Additional break-outs or consultation with developers  |
 :::
+
 
 ### Friday, March 20, 2026
 
 :::{table}
 |Time|Speaker|Title|
 |:---|:---|:--|
-|08:30 - 08:45|Organizers|Welcome and Overview|
-|08:45 - 09:00|  |  |
+|08:30 - 08:40|Organizers|Welcome and Overview|
+|08:40 - 08:55|  |  |
 |09:00 - 09:15|  |  |
-|09:15 - 09:45| Discussion / Break-outs |  |
+|09:20 - 09:45| Discussion | Break-out rooms by speaker and/or topic |
 |09:45 - 10:00|  |  |
-|10:15 - 10:30|  |  |
-|10:30 - 10:45|  |  |
-|10:45 - 11:15| Discussion / Break-outs |  |
-|11:15 - 11:30|  |  |
+|10:05 - 10:20|  |  |
+|10:25 - 10:50|  |  |
+|10:55 - 11:30| Discussion | Break-out rooms by speaker and/or topic |
 |11:30 - 11:45|  |  |
-|11:45 - 12:00|  |  |
-|12:00 - 12:30| Discussion / Break-outs |  |
+|11:50 - 12:05|  |  |
+|12:10 - 12:45| Discussion | Break-out rooms by speaker and/or topic |
+|12:45 -      | TBD | Additional break-outs or consultation with developers  |
 :::
+
 
 ## Tentative list of speakers
 
@@ -50,7 +52,7 @@ All times are Pacific Daylight Time (UTC-7)
 - Donna Calhoun, ForestClaw as an alternative to GeoClaw
 - David George, D-Claw: a clawpack submodule for granular-fluid applications (landslides, debris flows, landslide tsunamis)
 - Randy LeVeque, PyVista for 3D visualization
-- Fabien Kutschera, Modeling subduction zone earthquakes
+- Fabien Kutschera, 2024 Noto Peninsula tsunami and coupling with SeisSol dynamic rupture output
 - Kyle Mandli, Soup to Nuts in a Shallow Bowl
 - Takuya Miyashita, GeoClaw Extensions for Meteotsunami Simulation and Application Examples
 - Carlos Munoz Moncayo, Explicit discretization of hyperbolic-dispersive water wave models in GeoClaw
