@@ -19,7 +19,7 @@ with using GeoClaw.
 
 
 <p>
-The workshop will run from 8:30 am to 12:30 pm Pacific Daylight
+The workshop will run from 8:30 am to 1:00 pm Pacific Daylight
 Time on both Thursday and Friday.  Participants are welcome to come
 and go as desired, and participation in break-out groups is entirely
 optional. If there is sufficient interest, some additional break-out
