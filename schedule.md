@@ -60,7 +60,7 @@ All times are Pacific Daylight Time (UTC-7)
 - Jay Patton, Sea level rise influences to probabilistic tsunami hazards and risks
 - Donsub Rim, Using GeoClaw simulations for training machine learning models
 - Angel Ruiz-Angulo, Modeling dispersion in the Kamchatka 2025 tsunami
-- Ignacio Sepulveda, Modeling tidal currents
+- Ignacio Sepulveda, TRIDENT: Tides and Rivers Influencing the Dynamic Evolution of Nearshore Tsunamis
 - Jackie Sustiel, Modeling chemical tank leaks
-- Erick Valasco Reyes / Maria Paula Aranzales, Coupling GeoClaw to SFINCS
+- Erick Valasco Reyes / Maria Paula Aranzales, Coupling GeoCLAW and SFINCS for Rapid Far-Field Tsunami Hazard Assessment
 - Muhammad Naveed Zaf, Modelling landslide paleotsunamis using BingClaw and earthquake-induced seiches through coupling ground motion with GeoClaw
