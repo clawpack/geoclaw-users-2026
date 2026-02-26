@@ -41,8 +41,9 @@ All times are Pacific Daylight Time (UTC-7)
 |10:55 - 11:30| Discussion | Break-out rooms by speaker and/or topic |
 |11:30 - 11:45|  |  |
 |11:50 - 12:05|  |  |
-|12:10 - 12:45| Discussion | Break-out rooms by speaker and/or topic |
-|12:45 -      | TBD | Additional break-outs or consultation with developers  |
+|12:10 - 12:25|  |  |
+|12:30 - 13:00| Discussion | Break-out rooms by speaker and/or topic |
+|13:00 -      | TBD | Additional break-outs or consultation with developers  |
 :::
 
 
@@ -52,7 +53,7 @@ All times are Pacific Daylight Time (UTC-7)
 - Donna Calhoun, ForestClaw as an alternative to GeoClaw
 - David George, D-Claw: a clawpack submodule for granular-fluid applications (landslides, debris flows, landslide tsunamis)
 - Randy LeVeque, PyVista for 3D visualization
-- Fabien Kutschera, 2024 Noto Peninsula tsunami and coupling with SeisSol dynamic rupture output
+- Fabian Kutschera, From Multi-CMT to Dynamic Rupture Models: Informing GeoClaw Tsunami Simulations With Increasing Source Complexity
 - Kyle Mandli, Soup to Nuts in a Shallow Bowl
 - Takuya Miyashita, GeoClaw Extensions for Meteotsunami Simulation and Application Examples
 - Carlos Munoz Moncayo, Explicit discretization of hyperbolic-dispersive water wave models in GeoClaw
@@ -62,3 +63,4 @@ All times are Pacific Daylight Time (UTC-7)
 - Ignacio Sepulveda, Modeling tidal currents
 - Jackie Sustiel, Modeling chemical tank leaks
 - Erick Valasco Reyes / Maria Paula Aranzales, Coupling GeoClaw to SFINCS
+- Muhammad Naveed Zaf, Modelling landslide paleotsunamis using BingClaw and earthquake-induced seiches through coupling ground motion with GeoClaw
