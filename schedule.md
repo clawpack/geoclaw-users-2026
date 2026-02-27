@@ -21,8 +21,9 @@ All times are Pacific Daylight Time (UTC-7)
 |10:55 - 11:30| Discussion | Break-out rooms by speaker and/or topic |
 |11:30 - 11:45|  |  |
 |11:50 - 12:05|  |  |
-|12:10 - 12:45| Discussion | Break-out rooms by speaker and/or topic |
-|12:45 -      | TBD | Additional break-outs or consultation with developers  |
+|12:10 - 12:25|  |  |
+|12:30 - 13:00| Discussion | Break-out rooms by speaker and/or topic |
+|13:00 -      | TBD | Additional break-outs or consultation with developers  |
 :::
 
 
@@ -64,3 +65,5 @@ All times are Pacific Daylight Time (UTC-7)
 - Jackie Sustiel, Modeling chemical tank leaks
 - Erick Valasco Reyes / Maria Paula Aranzales, Coupling GeoCLAW and SFINCS for Rapid Far-Field Tsunami Hazard Assessment
 - Muhammad Naveed Zaf, Modelling landslide paleotsunamis using BingClaw and earthquake-induced seiches through coupling ground motion with GeoClaw
+- Jialing Dai, 3D pyvista-related DClaw visualization and interpretation
+- Alex Dolcimascolo, Implementing the Watada correction and Kajiura filter in GeoClaw
