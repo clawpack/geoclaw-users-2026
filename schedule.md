@@ -1,10 +1,15 @@
 
-# Schedule and Speakers
+# Schedule
 
-The list of speakers and timing of talks is still being finalized, but
-here is the tentative schedule:
+## Wiki pages
+
+Speakers are invited to create a wiki page at
+[Speaker Wiki Pages](https://github.com/clawpack/geoclaw-users-2026/wiki/Speaker-Wiki-Pages)
+with additional information about their talks, perhaps including links to their
+slides or relevant papers.
 
 All times are Pacific Daylight Time (UTC-7)
+
 
 ### Thursday, March 19, 2026
 
@@ -12,16 +17,16 @@ All times are Pacific Daylight Time (UTC-7)
 |Time|Speaker|Title|
 |:---|:---|:--|
 |08:30 - 08:40|Organizers|Welcome and Overview|
-|08:40 - 08:55|  |  |
-|09:00 - 09:15|  |  |
+|08:40 - 08:55| Erick Valasco Reyes / Maria Paula Aranzales | Coupling GeoCLAW and SFINCS for Rapid Far-Field Tsunami Hazard Assessment |
+|09:00 - 09:15| Fabian Kutschera | From Multi-CMT to Dynamic Rupture Models: Informing GeoClaw Tsunami Simulations With Increasing Source Complexity |
 |09:20 - 09:45| Discussion | Break-out rooms by speaker and/or topic |
-|09:45 - 10:00|  |  |
-|10:05 - 10:20|  |  |
-|10:25 - 10:50|  |  |
+|09:45 - 10:00| Marsha Berger | Dispersive wave modeling with the Boussinesq version of GeoClaw |
+|10:05 - 10:20| Angel Ruiz-Angulo | Modeling dispersion in the Kamchatka 2025 tsunami to better match SWOT observations|
+|10:25 - 10:50| Carlos Munoz Moncayo | Explicit discretization of hyperbolic-dispersive water wave models in GeoClaw |
 |10:55 - 11:30| Discussion | Break-out rooms by speaker and/or topic |
-|11:30 - 11:45|  |  |
-|11:50 - 12:05|  |  |
-|12:10 - 12:25|  |  |
+|11:30 - 11:45| Takuya Miyashita | GeoClaw Extensions for Meteotsunami Simulation and Application Examples |
+|11:50 - 12:05| Jay Patton | Sea level rise influences to probabilistic tsunami hazards and risks |
+|12:10 - 12:25| Donsub Rim | Using GeoClaw simulations for training machine learning models |
 |12:30 - 13:00| Discussion | Break-out rooms by speaker and/or topic |
 |13:00 -      | TBD | Additional break-outs or consultation with developers  |
 :::
@@ -33,37 +38,16 @@ All times are Pacific Daylight Time (UTC-7)
 |Time|Speaker|Title|
 |:---|:---|:--|
 |08:30 - 08:40|Organizers|Welcome and Overview|
-|08:40 - 08:55|  |  |
-|09:00 - 09:15|  |  |
+|08:40 - 08:55| Jackie Sustiel | Modeling chemical tank leaks |
+|09:00 - 09:15| Ignacio Sepulveda | TRIDENT: Tides and Rivers Influencing the Dynamic Evolution of Nearshore Tsunamis |
 |09:20 - 09:45| Discussion | Break-out rooms by speaker and/or topic |
-|09:45 - 10:00|  |  |
-|10:05 - 10:20|  |  |
-|10:25 - 10:50|  |  |
+|09:45 - 10:00| Donna Calhoun | ForestClaw as an alternative to GeoClaw |
+|10:05 - 10:20| David George | D-Claw: a clawpack submodule for granular-fluid applications (landslides, debris flows, landslide tsunamis) |
+|10:25 - 10:50| Muhammad Naveed Zaf | Modelling landslide paleotsunamis using BingClaw and earthquake-induced seiches through coupling ground motion with GeoClaw |
 |10:55 - 11:30| Discussion | Break-out rooms by speaker and/or topic |
-|11:30 - 11:45|  |  |
-|11:50 - 12:05|  |  |
-|12:10 - 12:25|  |  |
+|11:30 - 11:45| Jialing Dai | From Fort/FGOUT to insight: a reproducible PyVista workflow for D-Claw landslide-tsunami analysis |
+|11:50 - 12:05| Alex Dolcimascolo | Implementing the Watada correction and Kajiura filter in GeoClaw |
+|12:10 - 12:25| Kyle Mandli | Analytic and unit tests of GeoClaw |
 |12:30 - 13:00| Discussion | Break-out rooms by speaker and/or topic |
 |13:00 -      | TBD | Additional break-outs or consultation with developers  |
 :::
-
-
-## Tentative list of speakers
-
-- Marsha Berger, Dispersive wave modeling with the Boussinesq version of GeoClaw
-- Donna Calhoun, ForestClaw as an alternative to GeoClaw
-- David George, D-Claw: a clawpack submodule for granular-fluid applications (landslides, debris flows, landslide tsunamis)
-- Randy LeVeque, PyVista for 3D visualization
-- Fabian Kutschera, From Multi-CMT to Dynamic Rupture Models: Informing GeoClaw Tsunami Simulations With Increasing Source Complexity
-- Kyle Mandli, Soup to Nuts in a Shallow Bowl
-- Takuya Miyashita, GeoClaw Extensions for Meteotsunami Simulation and Application Examples
-- Carlos Munoz Moncayo, Explicit discretization of hyperbolic-dispersive water wave models in GeoClaw
-- Jay Patton, Sea level rise influences to probabilistic tsunami hazards and risks
-- Donsub Rim, Using GeoClaw simulations for training machine learning models
-- Angel Ruiz-Angulo, Modeling dispersion in the Kamchatka 2025 tsunami
-- Ignacio Sepulveda, TRIDENT: Tides and Rivers Influencing the Dynamic Evolution of Nearshore Tsunamis
-- Jackie Sustiel, Modeling chemical tank leaks
-- Erick Valasco Reyes / Maria Paula Aranzales, Coupling GeoCLAW and SFINCS for Rapid Far-Field Tsunami Hazard Assessment
-- Muhammad Naveed Zaf, Modelling landslide paleotsunamis using BingClaw and earthquake-induced seiches through coupling ground motion with GeoClaw
-- Jialing Dai, 3D pyvista-related DClaw visualization and interpretation
-- Alex Dolcimascolo, Implementing the Watada correction and Kajiura filter in GeoClaw
