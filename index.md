@@ -40,13 +40,24 @@ Participants agree to abide by the
 
 
 
-## Workshop Schedule
+## Workshop Schedule and Wiki Pages
 
-The workshop will run from 8:30 am to roughly 12:45 pm PDT (UTC-7) both days.
+The workshop will run from 8:30 am to roughly 1:00 pm PDT (UTC-7) both days.
 There may be additional break-out groups or one-on-one discussions, or
 mini hacking sessions in the afternoons for those interested.
 
-See [](schedule) for the tentative schedule and list of speakers.
+See [](schedule) for the schedule and list of speakers.
+The [Speaker Wiki
+Pages](https://github.com/clawpack/geoclaw-users-2026/wiki/Speaker-Wiki-Pages)
+may have more information about the speakers and their talks/interests.
+
+Participants are also invited to create a wiki page for yourself on the
+[Participant Wiki 
+Pages](https://github.com/clawpack/geoclaw-users-2026/wiki/Participant-Wiki-Pages).
+This is entirely optional, but may help people connect with others who have
+similar interests or useful expertise.
+
+
 
 ## Some GeoClaw resources:
 
