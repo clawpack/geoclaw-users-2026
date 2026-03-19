@@ -15,7 +15,6 @@ more with the speakers or other participants.  One-on-one time with
 developers will also be available for users who need assistance
 with using GeoClaw.
 
-[Zoom link](https://washington.zoom.us/j/96978533220)
 
 
 <p>
