@@ -16,8 +16,8 @@ developers will also be available for users who need assistance
 with using GeoClaw.
 
 
+**Zoom link:** [https://washington.zoom.us/j/96978533220](https://washington.zoom.us/j/96978533220)
 
-<p>
 The workshop will run from 8:30 am to 1:00 pm Pacific Daylight
 Time on both Thursday and Friday.  Participants are welcome to come
 and go as desired, and participation in break-out groups is entirely
@@ -34,7 +34,7 @@ The [Github repository](https://github.com/clawpack/geoclaw-users-2026)
 contains these webpages and can also be used for sharing resources.
 
 Participants agree to abide by the
-[Clawpack Community NumFOCUS Code of Conduct](https://github.com/clawpack/clawpack/blob/master/CODE_OF_CONDUCT.md).
+[Clawpack Community NumFOCUS Code of Conduct](CODE_OF_CONDUCT).
 
 
 
@@ -78,3 +78,11 @@ In particular:
 - The [Clawpack Community](https://www.clawpack.org/community.html)
   webpage lists some videos available for streaming, tutorials presented
   in the past, and other general Clawpack resources.
+
+- If you are having difficulties with GeoClaw in the future,
+  or have suggestions for improvement, consider posting as a [GeoClaw
+  Issue](https://github.com/clawpack/geoclaw/issues).
+
+- The [claw-users google
+  group](https://groups.google.com/forum/#!forum/claw-users) is also
+  a good resource.
