@@ -15,7 +15,7 @@ more with the speakers or other participants.  One-on-one time with
 developers will also be available for users who need assistance
 with using GeoClaw.
 
-<p>
+[Zoom link](https://washington.zoom.us/j/96978533220)
 
 
 <p>
@@ -52,20 +52,30 @@ Pages](https://github.com/clawpack/geoclaw-users-2026/wiki/Speaker-Wiki-Pages)
 may have more information about the speakers and their talks/interests.
 
 Participants are also invited to create a wiki page for yourself on the
-[Participant Wiki 
+[Participant Wiki
 Pages](https://github.com/clawpack/geoclaw-users-2026/wiki/Participant-Wiki-Pages).
 This is entirely optional, but may help people connect with others who have
 similar interests or useful expertise.
 
+### Other wiki pages
 
+Other wiki pages may be created to share additional information, see the
+[wiki home page](https://github.com/clawpack/geoclaw-users-2026/wiki/home).
+
+In particular:
+- [Some recent changes to GeoClaw and new features](https://github.com/clawpack/geoclaw-users-2026/wiki/Recent-GeoClaw-Changes)
 
 ## Some GeoClaw resources:
 
-<ul>
-<li> <a href="https://www.clawpack.org/contents.html#geoclaw-geophysical-flows">GeoClaw Documentation</a>
-<li> <a href="http://www.geoclaw.org/">geoclaw.org</a> has links to some publications and other resources
-<li> The new (work in progress) <a href="https://rjleveque.github.io/geoclaw_tsunami_tutorial/intro.html">GeoClaw
-Tsunami Modeling Tutorial</a> has a few examples and discussion of some
-issues, along with
-<a href="https://rjleveque.github.io/geoclaw_tsunami_tutorial/intro_resources.html">links to some other learning resources</a>
-</ul>
+- [GeoClaw Documentation](https://www.clawpack.org/contents.html#geoclaw-geophysical-flows) and [Installation instructions](https://www.clawpack.org/installing.html).
+
+- The website [geoclaw.org](http://www.geoclaw.org/)
+  has links to some publications and other resources
+
+- A new [GeoClaw Tsunami Modeling Tutorial](https://rjleveque.github.io/geoclaw_tsunami_tutorial/intro.html)
+  (work in progress) has a few examples and discussion of some
+  issues, along with [links to some other learning resources](https://rjleveque.github.io/geoclaw_tsunami_tutorial/intro_resources.htm)
+
+- The [Clawpack Community](https://www.clawpack.org/community.html)
+  webpage lists some videos available for streaming, tutorials presented
+  in the past, and other general Clawpack resources.
