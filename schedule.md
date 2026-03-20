@@ -47,7 +47,7 @@ All times are Pacific Daylight Time (UTC-7)
 |10:55 - 11:30| Discussion | Break-out rooms by speaker and/or topic |
 |11:30 - 11:45| Jialing Dai | From Fort/FGOUT to insight: a reproducible PyVista workflow for D-Claw landslide-tsunami analysis |
 |11:50 - 12:05| Alex Dolcimascolo | Implementing the Watada correction and Kajiura filter in GeoClaw |
-|12:10 - 12:25| Kyle Mandli | [From Examples to Experiments: Reproducible Workflows in GeoClaw](https://github.com/mandli/geoclaw-testing-talk) |
+|12:10 - 12:25| Kyle Mandli | [From Examples to Experiments: Reproducible Workflows in GeoClaw](https://kylemandli.com/geoclaw-testing-talk/) |
 |12:30 - 13:00| Discussion | Break-out rooms by speaker and/or topic |
 |13:00 -      | TBD | Additional break-outs or consultation with developers  |
 :::
