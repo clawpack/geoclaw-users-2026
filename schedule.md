@@ -23,7 +23,7 @@ All times are Pacific Daylight Time (UTC-7)
 |09:20 - 09:45| Discussion | Break-out rooms by speaker and/or topic |  |
 |09:45 - 10:00| Marsha Berger | Dispersive wave modeling Boussinesq GeoClaw (and AMR) | [video](https://youtu.be/xRVkRwOQ_60) |
 |10:05 - 10:20| Angel Ruiz-Angulo | Modeling dispersion in the Kamchatka 2025 tsunami to better match SWOT observations| [video](https://youtu.be/df_obZrCXyE) |
-|10:25 - 10:50| Carlos Munoz Moncayo | Explicit discretization of hyperbolic-dispersive water wave models in GeoClaw | [video](https://youtu.be/df_obZrCXyE) |
+|10:25 - 10:50| Carlos Munoz Moncayo | Explicit discretization of hyperbolic-dispersive water wave models in GeoClaw | [video](https://youtu.be/JiYAT8Y8F1g) |
 |10:55 - 11:30| Discussion | Break-out rooms by speaker and/or topic |  |
 |11:30 - 11:45| Takuya Miyashita | GeoClaw Extensions for Meteotsunami Simulation and Application Examples | [video](https://youtu.be/ZncQfwjW8ts) |
 |11:50 - 12:05| Jay Patton | Influence of Future Sea-level Rise on Tsunami Hazards in California | [video](https://youtu.be/3f-7cPsl8aE) |
