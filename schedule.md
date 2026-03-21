@@ -39,7 +39,7 @@ All times are Pacific Daylight Time (UTC-7)
 |Time|Speaker|Title||
 |:---|:---|:--|:--|
 |08:30 - 08:40|Organizers|Welcome and Overview||
-|08:40 - 08:55| Jackie Sustiel | Modeling Petrochemical Spill caused by Tropical Cyclones | [video]() |
+|08:40 - 08:55| Jackie Sustiel | Modeling Petrochemical Spill caused by Tropical Cyclones | [video](https://youtu.be/qrHIPq5Bvsc) |
 |09:00 - 09:15| Ignacio Sepulveda | TRIDENT: Tides and Rivers Influencing the Dynamic Evolution of Nearshore Tsunamis |  |
 |09:20 - 09:45| Discussion | Break-out rooms by speaker and/or topic ||
 |09:45 - 10:00| Donna Calhoun | ForestClaw: Parallel, adaptive library for geophysical applications | [video](https://depts.washington.edu/clawpack/geoclaw/geoclaw-users-2026/Calhoun.mp4) |
@@ -48,7 +48,7 @@ All times are Pacific Daylight Time (UTC-7)
 |10:55 - 11:30| Discussion | Break-out rooms by speaker and/or topic ||
 |11:30 - 11:45| Jialing Dai | From Fort/FGOUT to insight: a reproducible PyVista workflow for D-Claw landslide-tsunami analysis |  |
 |11:50 - 12:05| Alex Dolcimascolo | Implementing the Watada correction and Kajiura filter in GeoClaw | [video](https://youtu.be/d3Ngd1HqHLk) |
-|12:10 - 12:25| Kyle Mandli | From Examples to Experiments: Reproducible workflows in GeoClaw | [video](https://youtu.be/ryQCPOkeAtk) |
+|12:10 - 12:25| Kyle Mandli | From Examples to Experiments: Reproducible workflows in GeoClaw [slides](https://kylemandli.com/geoclaw-testing-talk/) | [video](https://youtu.be/ryQCPOkeAtk) |
 |12:30 - 13:00| Discussion | Break-out rooms by speaker and/or topic ||
 |13:00 -      | TBD | Additional break-outs or consultation with developers  ||
 :::
