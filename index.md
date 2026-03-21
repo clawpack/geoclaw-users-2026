@@ -1,6 +1,22 @@
 # GeoClaw Users' Workshop
 
+## Planning for Future Workshops
 
+The March 2026 workshop has now ended. 
+Thanks to the 70+ people who attended some or
+all of the workshop and contributed to a very successful event.  We
+learned about many interesting applications of GeoClaw, and perhaps started
+some new collaborations.
+
+The [](#schedule) now contains links to videos for many of the talks.
+
+A survey form will appear here shortly to give feedback on this workshop,
+and/or to make suggestions for future workshops, or to get on our mailing
+list for announcements.  (Or join the [claw-users google
+group](https://groups.google.com/forum/#!forum/claw-users) for future
+announcements, also of new releases.)
+
+## Workshop Description
 
 We will hold an online (Zoom) GeoClaw Users' Workshop on March
 19-20, 2026, with a series of short talks (~15 minutes) by developers
@@ -15,8 +31,6 @@ more with the speakers or other participants.  One-on-one time with
 developers will also be available for users who need assistance
 with using GeoClaw.
 
-
-**Zoom link:** [https://washington.zoom.us/j/96978533220](https://washington.zoom.us/j/96978533220)
 
 The workshop will run from 8:30 am to 1:00 pm Pacific Daylight
 Time on both Thursday and Friday.  Participants are welcome to come
