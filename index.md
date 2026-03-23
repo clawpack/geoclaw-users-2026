@@ -10,10 +10,13 @@ some new collaborations.
 
 The [](#schedule) now contains links to videos for many of the talks.
 
-A survey form will appear here shortly to give feedback on this workshop,
-and/or to make suggestions for future workshops, or to get on our mailing
-list for announcements.  (Or join the [claw-users google
-group](https://groups.google.com/forum/#!forum/claw-users) for future
+Whether or not you attended, you are invited to fill out this
+[survey form](https://forms.gle/7hEnTXG46JboSWxj7)
+to provide feedback on this workshop
+and/or to make suggestions for future workshops. You can also use it
+to get on our mailing
+list for announcements of future workshops.  (Or join the [claw-users google
+group](https://groups.google.com/forum/#!forum/claw-users) for
 announcements, also of new releases.)
 
 ## Workshop Description
